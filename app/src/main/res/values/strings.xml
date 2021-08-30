@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bluetooth_LE_DEMO</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="hello_world">Hello World</string>
+    <string name="band_image">Band Image</string>
+    <string name="title_location_permission">Permission Needed</string>
+    <string name="text_location_permission">We need your permission to access location</string>
+    <string name="ok">OK</string>
+    <string name="scan_to_search">Scan to search for devices</string>
+    <string name="device_name">Device Name:</string>
+    <string name="device_address">Device Address:</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting</string>
+    <string name="connected">Connected</string>
+    <string name="not_connected">Not connected</string>
+    <string name="connect_status">Connection Status:</string>
+    <string name="disconnected">Disconnected</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Bluetooth_LE_DEMO"
+include ':app'
